@@ -1,3 +1,4 @@
+#This project will improve the bikeshares data and compute the descriptive statistics
 import time
 import pandas as pd
 import numpy as np
