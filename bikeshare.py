@@ -204,7 +204,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df,city)
         
-        #To see indivual tri data
+        #Asking user to whether they want to see raw data or not
         count=0
         while True:
             
